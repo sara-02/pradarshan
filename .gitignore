@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.cache/
+env*/
+config.py
+error.log
+
