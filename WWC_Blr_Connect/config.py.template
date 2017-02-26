@@ -1,0 +1,10 @@
+import os
+
+# Connect to remote Gremlin server
+GREMLIN_SERVER_URL_REST = os.environ.get(
+    "GREMLIN_SERVER_URL_REST", "http://<host:port>")
+GREMLIN_SERVER_URL_WEBSOCKET = os.environ.get(
+    "GREMLIN_SERVER_URL_WEBSOCKET", "ws://<host:port>")
+
+
+
