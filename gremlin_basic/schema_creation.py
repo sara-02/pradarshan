@@ -37,6 +37,11 @@ def create_schema():
 	if(null == mgmt.getEdgeLabel('Group')) {
 		     Group = mgmt.makeEdgeLabel('Group').make();
 		}
+
+            // set an index on property name, along with uniqueness constraint
+            iif(null == mgmt.getGraphIndex('NameIndex')) {
+            mgmt.buildIndex('NameIndex', Vertex.class).addKey(name).unique().buildCompositeIndex();
+                        }
 	mgmt.commit();
 	"""
     return str_gremlin_dsl

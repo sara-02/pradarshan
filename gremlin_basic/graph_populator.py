@@ -6,7 +6,6 @@ from gremlin_python.process.strategies import *
 from gremlin_python.process.traversal import *
 from gremlin_python.driver.driver_remote_connection import DriverRemoteConnection
 
-
 graph = Graph()
 g = graph.traversal().withRemote(DriverRemoteConnection(
     config.GREMLIN_SERVER_URL_WEBSOCKET, 'g'))
@@ -17,16 +16,20 @@ def get_dict(value_list):
     return value_dict
 
 
-def populate_vertex(value_dict, label):
-    for key in value_dict:
-        result = g.addV(label).property('name', key).toList()
-        value_dict[key] = result[0].id
-        print value_dict[key]
-    return value_dict
+def add_vertex(label, key):
+    return g.addV(label).property('name', key).toList()
 
 
 def add_edges(id1, id2, label):
     print g.V(id1).addE(label).to(g.V(id2)).toList()
+
+
+def populate_vertex(value_dict, label):
+    for key in value_dict:
+        result = add_vertex(label, key)
+        value_dict[key] = result[0].id
+        print value_dict[key]
+    return value_dict
 
 
 def add_person_knows(names_dict):
