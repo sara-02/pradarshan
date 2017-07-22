@@ -7,3 +7,4 @@ Collection of demo code and slides.
 | [Data Science in Production - Talks](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/237396439/) | 24th Feb 2017 | [Gremlin-python hands-on](https://speakerdeck.com/smasud/gremlin-python-hands-on-session) |
 | [WWC Connect Bangalore](https://sites.google.com/view/wwcconnectindia) | 3rd March 2017 | [Gremlin- The universal graph language](https://speakerdeck.com/smasud/gremlin-the-universal-graph-language) |
 | [Fossmeet 2017](http://www.fossmeet.in/2017/public/#home) | 11th March 2017 | [The Alice and Bob problem of Open Source Licenses](https://speakerdeck.com/smasud/alice-and-bob-problem-of-open-source-licenses) |
+| [Pyladies Remote July-2017](https://www.eventbrite.com/e/introduction-to-data-wrangling-with-pandas-with-sarah-masud-tickets-35614660408) | 22nd July 2017 | [Introdcution to Python Pandas](https://www.youtube.com/watch?v=XZW3mMkQzSg) |
