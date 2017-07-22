@@ -4,4 +4,6 @@ __pycache__/
 env*/
 config.py
 error.log
-
+*.csv
+*.json
+.ipynb_checkpoints/
