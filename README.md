@@ -11,3 +11,7 @@ Collection of demo code and slides.
 | [FOSS Wave : Fedora and Version Control](https://www.facebook.com/events/1613713442259619/) | 10th Sept 2016 | [Git and Github](https://speakerdeck.com/smasud/git-and-github) |
 | [AlterConf Banaglore-2017](https://alterconf.com/talks/500000-girls) | TBD | [1/2 Billion Girls](https://www.leaninindia.com/single-post/2017/06/02/500000-Girls) |
 | [AlterConf Bangalore-2017](https://alterconf.com/talks/beep-protocol) | TBD | [The BEEP Protocol](https://alterconf.com/talks/beep-protocol) |
+
+
+# Image Attributions:
+All the images created by the author can be found and reused from [here](https://github.com/sara-02/khalaq) 
