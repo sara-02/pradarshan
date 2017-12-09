@@ -12,8 +12,6 @@ Collection of demo code and slides.
 | [WWC Connect Bangalore](https://sites.google.com/view/wwcconnectindia) | 3rd March 2017 | [Gremlin- The universal graph language](https://speakerdeck.com/smasud/gremlin-the-universal-graph-language) |
 | [Data Science in Production - Talks](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/237396439/) | 24th Feb 2017 | [Gremlin-python hands-on](https://speakerdeck.com/smasud/gremlin-python-hands-on-session) |
 | [FOSS Wave : Fedora and Version Control](https://www.facebook.com/events/1613713442259619/) | 10th Sept 2016 | [Git and Github](https://speakerdeck.com/smasud/git-and-github) |
-| [AlterConf Banaglore-2017](https://alterconf.com/talks/500000-girls) | TBD | [1/2 Billion Girls](https://www.leaninindia.com/single-post/2017/06/02/500000-Girls) |
-| [AlterConf Bangalore-2017](https://alterconf.com/talks/beep-protocol) | TBD | [The BEEP Protocol](https://alterconf.com/talks/beep-protocol) |
 
 
 # Image Attributions:
