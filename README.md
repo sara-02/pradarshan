@@ -3,6 +3,7 @@ Collection of demo code and slides.
 
 |    Event        | Date   |    Presentation Link   |
 |-----------------|--------|------------|
+| [Let Poetry Be-January Open Mic](https://www.facebook.com/letpoetrybe/) | 20th January 2018 | [The Eternal Sunshine Of The Spotless Mind(Poetry Performance)](https://docs.google.com/document/d/e/2PACX-1vRmaWv1LGw-xyOlEZmOIizhKjURzpCtE7_42iUgRhDaZmG6dnHJdFsuIf-m92p7RFwtrRHL77FkjJdR/pub) |
 | [Let Poetry Be-November Open Mic](https://www.facebook.com/events/1086149611520187/) | 18th November 2017 | [Being One of Their Kind(Poetry Performance)](https://themessier.wordpress.com/2017/11/25/being-one-of-their-kind/) |
 | [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | 3rd-6th October 2017 | [Framework to Extract Context Vectors from Unstructured Data using Big Data Analytics(Poster Presentation)](GHC_17_Poster.pdf) |
 | [100 Thousand Poets for Change, 2017 Bangalore](https://www.facebook.com/events/1920690724846838) | 24th September 2017 | [Be Careful What You Wish For(Poetry Performance)](https://themessier.wordpress.com/2017/09/23/be-careful-what-you-wish-for/) |
