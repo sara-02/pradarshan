@@ -1,0 +1,2 @@
+LetsPyDelhi was a 2 day Python Bootcamp. I was one of the 4 speakers at the event.
+I spoke about introduction to ML, and did a hand-ons on Knn classifiers using IRIS data.
