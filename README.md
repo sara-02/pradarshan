@@ -8,7 +8,7 @@ My profile [here](https://speakerdeck.com/_themessier)
 
 |    Event        |   Type    | Location |  Date   |    Presentation Link   |
 |-----------------|-----------|--------|--------|------------|
-| [LetsPyDelhi](https://twitter.com/DelhiLetspy) | Bootcamp(Workshop) | IIIT-D, DEL | 31st March, 2019 | Intro To ML, ML Handson|
+| [LetsPyDelhi](https://twitter.com/DelhiLetspy) | Bootcamp(Workshop) | IIIT-D, DEL | 31st March, 2019 | [Intro To ML, ML Handson](https://github.com/sara-02/pradarshan/tree/master/IIIT_D)|
 | [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | Conference(Workshop) | Houston, USA | 26th September, 2018 | Building Cloud Native Applications |
 | [AI Day](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/251361758/) | Meetup(Presentation) | Treebo, BLR | 30th June 2018 | [Matrix factorization: Gaussian vs Poisson Distribution](https://speakerdeck.com/_themessier/mf-gaussian-vs-poisson) |
 | [Women in Data Science, Regional Event](https://sites.google.com/view/wids-mumbai/wids-mumbai-18) | Conference(Presentation) | VJTI, BOM | 10th March 2018 | [Seven Sins of a Data Science Newbie](https://speakerdeck.com/_themessier/seven-sins-of-data-science-newbie) |
