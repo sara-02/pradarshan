@@ -10,9 +10,9 @@ My profile [here](https://speakerdeck.com/_themessier)
 |-----------------|-----------|--------|--------|------------|
 | [LetsPyDelhi](https://twitter.com/DelhiLetspy) | Bootcamp(Workshop) | IIIT-D, DEL | 31st March, 2019 | Intro To ML, ML Handson|
 | [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | Conference(Workshop) | Houston, USA | 26th September, 2018 | Building Cloud Native Applications |
-| [AI Day](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/251361758/) | Meetup(Presentation) | Treebo, BLR | 30th June 2018 | Matrix factorization: Gaussian vs Poisson Distribution |
-| [Women in Data Science, Regional Event](https://sites.google.com/view/wids-mumbai/wids-mumbai-18) | Conference(Presentation) | VJTI, BOM | 10th March 2018 | Seven Sins of a Data Science Newbie |
-| SHE-IWD Celebration | Meetup(Presentation) | Christ University, BLR | 8th March 2018 | Seven Sins of a Data Science Newbie |
+| [AI Day](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/251361758/) | Meetup(Presentation) | Treebo, BLR | 30th June 2018 | [Matrix factorization: Gaussian vs Poisson Distribution](https://speakerdeck.com/_themessier/mf-gaussian-vs-poisson) |
+| [Women in Data Science, Regional Event](https://sites.google.com/view/wids-mumbai/wids-mumbai-18) | Conference(Presentation) | VJTI, BOM | 10th March 2018 | [Seven Sins of a Data Science Newbie](https://speakerdeck.com/_themessier/seven-sins-of-data-science-newbie) |
+| SHE-IWD Celebration | Meetup(Presentation) | Christ University, BLR | 8th March 2018 | [Seven Sins of a Data Science Newbie](https://speakerdeck.com/_themessier/seven-sins-of-data-science-newbie) |
 | [Let Poetry Be-January Edition](https://www.facebook.com/letpoetrybe/) | Open Mic(Poetry) | Atta Galatta, BLR | 20th January 2018 | [The Eternal Sunshine Of The Spotless Mind](https://docs.google.com/document/d/e/2PACX-1vRmaWv1LGw-xyOlEZmOIizhKjURzpCtE7_42iUgRhDaZmG6dnHJdFsuIf-m92p7RFwtrRHL77FkjJdR/pub) |
 | [Let Poetry Be-November Edition](https://www.facebook.com/events/1086149611520187/) | Open Mic(Poetry) | Atta Galatta, BLR | 18th November 2017 | [Being One of Their Kind](https://themessier.wordpress.com/2017/11/25/being-one-of-their-kind/) |
 | [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | Conference(Poster) | Orlando, USA | 3rd-6th October 2017 | [Framework to Extract Context Vectors from Unstructured Data using Big Data Analytics](GHC_17_Poster.pdf) |
