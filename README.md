@@ -25,8 +25,10 @@ My profile [here](https://speakerdeck.com/_themessier)
 | [Data Science in Production](https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/237396439/) | Meetup(Presentation) | Red Hat, BLR | 24th Feb 2017 | [Gremlin-python hands-on](https://speakerdeck.com/_themessier/data-science-in-production) |
 | [FOSS Wave : Fedora and Version Control](https://www.facebook.com/events/1613713442259619/) | Meetup(Workshop) | Visvesvaraya CoE, BLR | 10th Sept 2016 | [Git and Github](https://speakerdeck.com/_themessier/git-and-github) |
 
-## Internal(Company Only)
-- Summits at Sites 20[17,18], Red Hat(BLR)
+## Internal(Company/Org Only)
+- GSRANK: Spotting Fake Reviewer Groups in Consumer Reviews, Reading Group @LCS2, LCS2 (IIIT-D)
+- Scaling Maven Recommendations With HPF, Summits at Sites 2018, Red Hat(BLR)
+- Modeling intent of the user using Probabilistic Machine Learning, Summits at Sites 2017, Red Hat(BLR)
 
 # Image Attributions:
 All the images created by the author can be found and reused from [here](https://github.com/sara-02/khalaq) 
