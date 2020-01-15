@@ -8,7 +8,7 @@ My profile [here](https://speakerdeck.com/_themessier)
 
 |    Event        |   Type    | Location |  Date   |    Presentation Link   |
 |-----------------|-----------|--------|--------|------------|
-| :computer: [Combating Fraud Activities using Data Science](http://lcs2.iiitd.edu.in/cofad/) | Conference(Student Presenter) | IIIT-D, DEL | 11th January, 2019 | [Spotting Collective Behaviour of Online Frauds in Customer Review](https://speakerdeck.com/_themessier/spotting-collective-behaviour-of-online-frauds-in-customer-review) |
+| :computer: [Combating Fraud Activities using Data Science](http://lcs2.iiitd.edu.in/cofad/) | Conference(Student Presenter) | IIIT-D, DEL | 11th January, 2019 | [Spotting Collective Behaviour of Online Frauds in Customer Review](https://speakerdeck.com/_themessier/spotting-collective-behaviour-of-online-frauds-in-customer-reviews) |
 | :computer: [PyData Delhi](https://pydata.org/delhi2019/) | Conference(Presentation) | IIIT-D, DEL | 3rd August, 2019 | [Magic of Numpy](https://speakerdeck.com/_themessier/sarah-masud-pyd19), [Code Slides](https://github.com/sara-02/pradarshan/blob/master/Numpy_PyData_DEL_2019.ipynb) |
 | :computer: [LetsPyDelhi](https://twitter.com/DelhiLetspy) | Bootcamp(Workshop) | IIIT-D, DEL | 31st March, 2019 | [Intro To ML, ML Handson](https://github.com/sara-02/pradarshan/tree/master/IIIT_D) |
 | :computer: [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | Conference(Workshop) | Houston, USA | 26th September, 2018 | [Building Cloud Native Applications](https://speakerdeck.com/_themessier/building-cloud-native-applications) |
