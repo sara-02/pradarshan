@@ -8,7 +8,7 @@ My profile [here](https://speakerdeck.com/_themessier)
 
 |    Event        |   Type    | Location |  Date   |    Presentation Link   |
 |-----------------|-----------|--------|--------|------------|
-| :computer: [Combating Fraud Activities using Data Science](http://lcs2.iiitd.edu.in/cofad/) | Conference(Student Presenter) | IIIT-D, DEL | 11th January, 2020 | [Spotting Collective Behaviour of Online Frauds in Customer Review](https://speakerdeck.com/_themessier/spotting-collective-behaviour-of-online-frauds-in-customer-reviews) |
+| :scroll: [Combating Fraud Activities using Data Science](http://lcs2.iiitd.edu.in/cofad/) | Conference(Student Presenter) | IIIT-D, DEL | 11th January, 2020 | [Spotting Collective Behaviour of Online Frauds in Customer Review](https://speakerdeck.com/_themessier/spotting-collective-behaviour-of-online-frauds-in-customer-reviews) |
 | :computer: [PyData Delhi](https://pydata.org/delhi2019/) | Conference(Presentation) | IIIT-D, DEL | 3rd August, 2019 | [Magic of Numpy](https://speakerdeck.com/_themessier/sarah-masud-pyd19), [Code Slides](https://github.com/sara-02/pradarshan/blob/master/Numpy_PyData_DEL_2019.ipynb) |
 | :computer: [LetsPyDelhi](https://twitter.com/DelhiLetspy) | Bootcamp(Workshop) | IIIT-D, DEL | 31st March, 2019 | [Intro To ML, ML Handson](https://github.com/sara-02/pradarshan/tree/master/IIIT_D) |
 | :computer: [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/) | Conference(Workshop) | Houston, USA | 26th September, 2018 | [Building Cloud Native Applications](https://speakerdeck.com/_themessier/building-cloud-native-applications) |
@@ -27,9 +27,10 @@ My profile [here](https://speakerdeck.com/_themessier)
 | :computer: [FOSS Wave : Fedora and Version Control](https://www.facebook.com/events/1613713442259619/) | Meetup(Workshop) | Visvesvaraya CoE, BLR | 10th Sept 2016 | [Git and Github](https://speakerdeck.com/_themessier/git-and-github) |
 
 ## Internal(Company/Org Only)
-- :computer: Gaps in Information Access in Social Network, Reading Group @LCS2, Jan 2020, IIIT-D
-- :computer: Spread of Hate Speech in Online Social Media, Reading Group @LCS2, Jan 2020, IIIT-D
+- :scroll: [Analyzing the Impact of Filter Bubbles on Social Network Polarization](https://dl.acm.org/doi/abs/10.1145/3336191.3371825), Reading Group @LCS2, Feb 2020, IIIT-D
+- :scroll: [Gaps in Information Access in Social Network](https://dl.acm.org/doi/10.1145/3308558.3313680), Reading Group @LCS2, Jan 2020, IIIT-D
+- :scroll: [Spread of Hate Speech in Online Social Media](https://arxiv.org/abs/1812.01693), Reading Group @LCS2, Jan 2020, IIIT-D
 - :microphone: Remember Simba(Part 1,4), Open Mic, Nov 2019, IIIT-D
-- :computer: GSRANK: Spotting Fake Reviewer Groups in Consumer Reviews, Reading Group @LCS2, Nov 2019, IIIT-D
+- :scroll: [GSRANK: Spotting Fake Reviewer Groups in Consumer Reviews](https://dl.acm.org/doi/10.1145/2187836.2187863), Reading Group @LCS2, Nov 2019, IIIT-D
 - :computer: Scaling Maven Recommendations With HPF, Summits at Sites, 2018, Red Hat(BLR)
 - :computer: Modeling intent of the user using Probabilistic Machine Learning, Summits at Sites, 2017, Red Hat(BLR)
